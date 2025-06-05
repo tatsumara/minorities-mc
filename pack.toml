@@ -1,0 +1,13 @@
+name = "Minorities MC"
+author = "melinaracc"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "276ca452ea65a65b5e63c5d8caf8e06d1051d775c7a4028135f4b137c5f62656"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.174"
