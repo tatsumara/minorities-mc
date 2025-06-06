@@ -66,6 +66,11 @@ hash = "bfae48d707113dd178b25b16620c8f4bf5a27ea82c9b1975edeb89a7f196048d"
 metafile = true
 
 [[files]]
+file = "mods/cold-sweat.pw.toml"
+hash = "6c13abaf226487837ded30196791f9dfd3d228a6852b10fc4fc2d050be4c6e5a"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
 metafile = true
@@ -87,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
+hash = "685f7aae9a95ef4390a32d701097f1ff2315d657c245c50bbf2545034c5687ae"
 metafile = true
 
 [[files]]
