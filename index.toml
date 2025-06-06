@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
+hash = "22112b25e2cf800c2eaf26f184104fab8df65837b71e2b2027daef056a623987"
 metafile = true
 
 [[files]]
