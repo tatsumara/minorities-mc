@@ -71,11 +71,6 @@ hash = "bfae48d707113dd178b25b16620c8f4bf5a27ea82c9b1975edeb89a7f196048d"
 metafile = true
 
 [[files]]
-file = "mods/cold-sweat.pw.toml"
-hash = "6c13abaf226487837ded30196791f9dfd3d228a6852b10fc4fc2d050be4c6e5a"
-metafile = true
-
-[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
 metafile = true
@@ -173,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "cac351a2081dc73e6922ea757c1515e4b5d93c40c7a060278975b0de0b5863b8"
 metafile = true
 
 [[files]]
